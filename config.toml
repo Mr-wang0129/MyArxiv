@@ -4,6 +4,11 @@ cache_url = "https://Mr-wang0129.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
+category = "cs.CL"
+title = "Computation and Language"
+
+[[sources]]
+limit = 150
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
@@ -26,8 +31,6 @@ title = "Artificial Intelligence"
 limit = 150
 category = "cs.LG"
 title = "Machine Learning"
-
-
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
